@@ -7,12 +7,12 @@ I am requesting database table scripts to implement this database table.
 The full spec is included in the repo in the file called spec.sql
 
 ## Deliverables 
-The following three files are required to implement the requirements for this repo. I included the information for each of them in the spec
-1 table.sql (create database and table)
-2 sampledata.sql
-3 reports.sql
+The following three files are required to implement the requirements for this repo. I included the information for each of them in the spec. 
+* 1 table.sql (create database and table)
+* 2 sampledata.sql
+* 3 reports.sql
 
-##SQL Requirements
+## SQL Requirements
 * primary key
 * properly named columns
 * proper data types
